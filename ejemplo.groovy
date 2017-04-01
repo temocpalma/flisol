@@ -1,4 +1,4 @@
-Texto uno
 Línea incrustada cambiada
-Texto dos
+Texto dos editada
 Texto tres
+Texto cuatro
